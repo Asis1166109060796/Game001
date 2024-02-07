@@ -13,7 +13,7 @@ GRID_SIZE = 25
 GRID_WIDTH = SCREEN_WIDTH // GRID_SIZE
 GRID_HEIGHT = SCREEN_HEIGHT // GRID_SIZE
 SNAKE_SPEED = 15 #ความเร็วงู
-# ปรับตามต้องการ
+
 
 # สี
 YELLOW = (255, 255, 0)  # สีเหลือง
