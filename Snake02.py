@@ -6,7 +6,7 @@ import random
 # กำหนด Pygame
 pygame.init()
 
-# กำหนดค่าี่
+# กำหนดค่า
 SCREEN_WIDTH = 480 #ความกว้างจอ
 SCREEN_HEIGHT = 480 #ความสูงของจอ
 GRID_SIZE = 25
